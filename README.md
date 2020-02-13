@@ -10,3 +10,7 @@ Nice article, I do think that the pivot to software engineering across many unde
 # Niki Singh - Comment
 
 This article is really interesting because it goes into some depth about the need for software engineers and how this need is increasing steadily year after year. While reading it, I couldn't help but to wonder, is there ever going to be a point where the demand for software engineers surpasses the number of people willing to do the work? Or will the pay grade of software engineers always be enticing enough for people to come into this field. 
+
+# Omar Morhbi - Comment
+
+Reading this article makes me feel grateful that we're going into a field that's yet to be saturated by a considerable margin. While there is still definitely a lot of competition, there is still at least a lot of opportunities to land a job. If the field gets saturated enough, I believe the field might adopt some sort of standardized examinations to provide developers with certifications to help differentiate them with the rest of the field.
