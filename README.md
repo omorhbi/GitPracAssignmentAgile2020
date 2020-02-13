@@ -1,0 +1,4 @@
+# Git Homework
+[The Rise of the Software Engineer](https://smartasset.com/retirement/the-rise-of-the-software-engineer)
+
+This is a great article since it highlights the growing need for Software Engineers in today's market. I never realized just how high the salary was for software engineers, especially when considering the lower education requirement in comparison to other fields. This article makes me wonder if it is common for people today to shift their careers into software engineering. The amount of return for investment in this field seems extremely desirable. It also makes me wonder if there will ever be an oversaturation of software engineers in the future. 
